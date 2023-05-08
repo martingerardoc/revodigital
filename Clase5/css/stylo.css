@@ -1,0 +1,62 @@
+.Caja{
+    background-image: url('../img/camp_tent_arctic.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.titulo{
+    width: fit-content;
+    background-color: black;
+    color: white;
+    border: 5px solid white;
+    padding: 50px;
+    margin: auto;
+    margin-top: 250px;
+    text-transform: uppercase;
+   /* //border-bottom-style/**/
+}
+.main{
+   /* background-color: red;*/
+    text-align: center;
+
+}
+.aside{
+    position:absolute;
+    width: 30%;
+    background-color: blue;
+    text-align: right;
+    top: 30%;
+    right: -10%;   
+}
+.footer {
+    background-color: yellow;
+    border: 10px solid black;
+    
+}
+div{
+    width: 400px;height: 150px;
+    background-color:#ad6be3;
+    border: 4px dotted;
+    padding:40px;
+    margin:50px;
+    display: inline-table;
+    text-align:center;
+}
+div p {
+    display: table-cell;
+    vertical-align:middle;
+    font-family: impact;
+    font-size:32px;
+    text-transform:
+    uppercase;
+    color:#330757;
+}
+.form{
+    background-color:red;
+    width: fit-content;
+    background-color: black;
+    color: white;
+    border: 5px solid blue;
+    margin: auto;
+    text-align: left;
+}
